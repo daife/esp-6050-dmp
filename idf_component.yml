@@ -1,0 +1,6 @@
+dependencies:
+  idf:
+    version: '>=4.0'
+description: ESP32 MPU6050 DMP (Digital Motion Processor) driver component
+url: https://github.com/daife/esp-6050-dmp
+version: 1.0.0
